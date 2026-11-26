@@ -1,4 +1,5 @@
-﻿========================================================================
+```
+ ========================================================================
   GITHUB PRESENTS: YOUR CODE, ON A DVD
 ========================================================================
 
@@ -41,3 +42,6 @@ Thank you for making the world a better place, one PR at a time.
 
   -- With <3 from GitHub
 ========================================================================
+```
+# my own GitHub "CD"
+<img width="2160" height="2880" alt="image" src="https://github.com/user-attachments/assets/6e47bb2e-f8cc-4b04-b6c4-0de4f4449043" />
